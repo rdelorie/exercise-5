@@ -1,24 +1,34 @@
 ---
 title: "exercise 5"
 ---
-# Attach the `palmerspenguins` package
+# Attach the `palmerspenviewguins` package
 
 # 1. Examine at the dataset using the ?Help page
+# done
 
 # 2. what is the class of the penguins dataset?
+# "tbl_df"     "tbl"        "data.frame"
 
 # 3. what is the structure of the penguins dataset?
+# tibble [344 × 8] (S3: tbl_df/tbl/data.frame)
 
 # 4. what are the dimensions of the penguins dataset?
+# 344x8
 
 # 5. what are the column names of the penguins dataset?
+# "species", "island", "bill_length_mm","bill_depth_mm", "flipper_length_mm", "body_mass_g" "sex" 
 
 # 6. what type of data is `flipper_length_mm` and `Island`?
+# flipper length is a factor and island is a factor
 
 # 7. what is the mean flipper length of the penguins?
+# 200.9152
 
 # 8. what is the standard deviation of flipper length in the penguins?
+# 14.06171
 
 # 9. what is the median body mass of the penguins?
+# 4050
 
 # 10. what is the Island of the 100th penguin?
+# Biscoe Dream Torgersen
