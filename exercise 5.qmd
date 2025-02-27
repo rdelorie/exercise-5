@@ -19,7 +19,7 @@ title: "exercise 5"
 # "species", "island", "bill_length_mm","bill_depth_mm", "flipper_length_mm", "body_mass_g" "sex" 
 
 # 6. what type of data is `flipper_length_mm` and `Island`?
-# flipper length is a factor and island is a factor
+# flipper length is an integer and island is a factor
 
 # 7. what is the mean flipper length of the penguins?
 # 200.9152
